@@ -7,5 +7,18 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://D:/Seleninum software" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://D:/Seleninum software/JAr/commons-lang3-3.12.0/apidocs" />
+          <root url="file://D:/Seleninum software/commons-io-2.10.0-bin/commons-io-2.10.0/docs" />
+        </JAVADOC>
+        <SOURCES />
+        <jarDirectory url="file://D:/Seleninum software" recursive="false" />
+      </library>
+    </orderEntry>
   </component>
 </module>
