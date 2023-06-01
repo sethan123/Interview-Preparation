@@ -2,7 +2,7 @@ package Interview;
 
 public class Palidrome_Number {
     public static void main(String[] args) {
-        int a=12322;
+        int a=131;
 
         int org =a;
         int rev=0;
