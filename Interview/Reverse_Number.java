@@ -5,14 +5,14 @@ public class Reverse_Number {
 
         int a=1234455;
 
-        int rev=0;
-
-        while(a!=0)
-        {
-            rev=rev*10 + a%10;
-            a=a/10;
-        }
-        System.out.println(rev);
+//        int rev=0;
+//
+//        while(a!=0)
+//        {
+//            rev=rev*10 + a%10;
+//            a=a/10;
+//        }
+//        System.out.println(rev);
 
 
 
@@ -22,10 +22,10 @@ public class Reverse_Number {
 //        StringBuffer rev =sb.reverse();
 //        System.out.println("String buffer " + ""+ rev);
 //
-//        StringBuilder sb1= new StringBuilder();
-//        sb1.append(a);
-//        StringBuilder rev1 =sb1.reverse();
-//        System.out.println(rev1);
+        StringBuilder sb1= new StringBuilder();
+        sb1.append(a);
+        StringBuilder rev1 =sb1.reverse();
+        System.out.println(rev1);
 
     }
 }
