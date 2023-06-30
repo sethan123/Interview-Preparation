@@ -11,4 +11,8 @@ public class Sum_of_digit {
         }
         System.out.println(sum);
     }
+    
+    
+    
+    
 }

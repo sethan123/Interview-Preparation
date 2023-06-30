@@ -15,6 +15,7 @@ public class stringquestion_1 {
 		{
 			System.out.print(word[i].charAt(0));
 			
+			
 		}
 		
 
