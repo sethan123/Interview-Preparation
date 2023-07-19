@@ -150,7 +150,9 @@ public class Add_a_staff_and_fee_collection {
 
 	@AfterTest()
 	public void tearDown() {
+
 		driver.close();
+		System.out.println("Browser closed");
 	}
 
 }
