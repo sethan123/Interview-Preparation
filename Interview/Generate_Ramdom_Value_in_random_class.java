@@ -1,6 +1,6 @@
 package Interview;
 
-public class Generate_Ramdm_Value_in_random_class {
+public class Generate_Ramdom_Value_in_random_class {
 
 	public static void main(String[] args) {
 		int min =1;
