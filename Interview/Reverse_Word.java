@@ -1,6 +1,6 @@
 package Interview;
 
-public class Reverse_Word {
+public class  Reverse_Word {
     public static void main(String[] args) {
         String s ="chethan";
 

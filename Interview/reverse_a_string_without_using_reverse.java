@@ -5,7 +5,7 @@ public class reverse_a_string_without_using_reverse {
         String str = "This Is String.";
         String revstring = "";
 
-        for (int i = str.length()-1; i >=0; --i)   {
+        for (int i = str.length() - 1; i >= 0; --i) {
 //Start getting characters from end of the string.
 
             revstring += str.charAt(i);
@@ -13,6 +13,7 @@ public class reverse_a_string_without_using_reverse {
         }
 
         System.out.println(revstring);
+
 
     }
 }

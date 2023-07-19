@@ -1,6 +1,6 @@
 package Interview;
 
-import java.util.concurrent.ThreadLocalRandom;
+import java.util.concurrent.ThreadLocalRandom;	
 
 public class generate_Random_Value {
 
