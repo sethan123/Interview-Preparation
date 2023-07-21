@@ -1,6 +1,6 @@
 package Arrays_Interview;
 
-public class Duplicate_In_Array {
+public class Print_Duplicate_In_Array {
 
 	public static void main(String[] args) {
 		
