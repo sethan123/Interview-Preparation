@@ -7,6 +7,7 @@ public class Generate_Ramdom_Value_in_random_class {
 		int max=100;
 		
 		double a = Math.random()* (max-min+1) + min;
+		
 		System.out.println(a);
 		
 		
