@@ -26,22 +26,26 @@ public class Max_Min_Element_in_Array {
     public static void main(String[] args) {
         int[] A = {1, 2, 3, 4, 5, 6};
 
-        int max = IntStream.range(0, A.length)
-                .map(i -> A[i])
-                .max()
-                .getAsInt();
+//        int max = IntStream.range(0, A.length)
+//                .map(i -> A[i])
+//                .max()
+//                .getAsInt();
+//
+//        int min = IntStream.range(0, A.length)
+//                .map(i -> A[i])
+//                .min()
+//                .getAsInt();
+//
+//        System.out.println("Min element is " + min);
+//        System.out.println("Max element is " + max);
+//    }
 
-        int min = IntStream.range(0, A.length)
-                .map(i -> A[i])
-                .min()
-                .getAsInt();
+        Arrays.sort(A);
+        System.out.println("Min element is " + A[0]);
+        System.out.println("Min element is " + A[A.length-1]);
 
-        System.out.println("Min element is " + min);
-        System.out.println("Max element is " + max);
+
     }
-
-
-
 
         }
 

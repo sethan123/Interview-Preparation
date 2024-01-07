@@ -7,9 +7,9 @@ package Interview;
 public class Missing_Number_Array{
 public static void main(String[] args) {
 	 
-		   	int total;
+		   //	int total;
 		   	int[] num = new int[] {1, 2, 3, 4, 6, 7};
-		   	 total =7;
+		   int	 total =num.length;
 		   	 
 		   	 int expected_sum = total*((total+1)/2);
 		   	int num_sum = 0;
