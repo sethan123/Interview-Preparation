@@ -1,4 +1,4 @@
-package String_Interview;
+package Java_Numbers;
 
 public class Generate_Ramdom_Value_in_random_class {
 

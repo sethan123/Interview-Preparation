@@ -1,4 +1,4 @@
-package String_Interview;
+package Java_Numbers;
 
 import java.util.Scanner;
 

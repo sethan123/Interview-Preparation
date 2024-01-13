@@ -1,4 +1,4 @@
-package String_Interview;
+package Arrays_Interview;
 
 import java.util.Arrays;
 import java.util.Collections;

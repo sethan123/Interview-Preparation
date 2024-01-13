@@ -1,4 +1,4 @@
-package String_Interview;
+package Java_Numbers;
 
 public class Largest_3_Digit {
 
