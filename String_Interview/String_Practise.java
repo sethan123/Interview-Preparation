@@ -6,7 +6,6 @@ public class String_Practise {
 		String s="chethan";
 		System.out.println(s.toUpperCase());  //o/p  --> CHETHAN
 		System.out.println(s);  // o/p -->  chethan   --> This is the simple example of string immutable 
-
 		
 		
 // To overcome the above issue 		
