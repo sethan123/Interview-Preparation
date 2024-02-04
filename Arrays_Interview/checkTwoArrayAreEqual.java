@@ -12,6 +12,8 @@ public class checkTwoArrayAreEqual {
         {
             System.out.println("Enterted number is Not Equal");
         }
+        
+        
     }
 
 }
