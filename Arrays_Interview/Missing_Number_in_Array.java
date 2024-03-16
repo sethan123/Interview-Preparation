@@ -11,7 +11,7 @@ public class Missing_Number_in_Array
         {
             for(int j=0;j<arr2.length;j++)
             {
-              a=arr1[i]-arr2[i];
+              a=arr1[i]-arr2[j];
 
             }
 

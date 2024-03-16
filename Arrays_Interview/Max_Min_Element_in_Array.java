@@ -1,7 +1,5 @@
 package Arrays_Interview;
 
-import java.util.stream.IntStream;
-
 import java.util.Arrays;
 
 public class Max_Min_Element_in_Array {

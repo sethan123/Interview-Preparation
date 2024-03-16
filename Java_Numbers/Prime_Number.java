@@ -2,7 +2,7 @@ package Java_Numbers;
 
 public class Prime_Number {
     public static void main(String[] args) {
-        int n = 11;
+        int n = 13;
 
         // Holds the count of values
         int count = 0;
